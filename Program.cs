@@ -16,4 +16,4 @@ for (int i = 0; i < nums.Length - 1; i++)
     }
 }
 foreach (int i in nums)
-    Console.WriteLine(i);
+    Console.WriteLine("Element from nums: " + i);
