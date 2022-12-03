@@ -1,0 +1,15 @@
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\bin\Debug\net6.0\Git_Curse.exe
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\bin\Debug\net6.0\Git_Curse.deps.json
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\bin\Debug\net6.0\Git_Curse.runtimeconfig.json
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\bin\Debug\net6.0\Git_Curse.dll
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\bin\Debug\net6.0\ref\Git_Curse.dll
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\bin\Debug\net6.0\Git_Curse.pdb
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.csproj.AssemblyReference.cache
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.AssemblyInfoInputs.cache
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.AssemblyInfo.cs
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.csproj.CoreCompileInputs.cache
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.dll
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\ref\Git_Curse.dll
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.pdb
+C:\Users\UZER\Desktop\Visual_Studio_Проекты\Git_Curse\obj\Debug\net6.0\Git_Curse.genruntimeconfig.cache
